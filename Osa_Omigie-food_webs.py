@@ -4,6 +4,7 @@
 
 import sys
 from formatList import formatList
+sys.argv = ["AnotherFoodWeb.txt"]
 
 # This creates the animal dictionary
 # Parameters: 

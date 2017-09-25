@@ -1,0 +1,27 @@
+Fox eats Rabbit
+Fox eats Squirrel
+Fox eats Mouse
+Fox eats Seed Eating Bird
+Fox eats Insectivor Bird
+Fox eats Toad
+Hawk eats Rabbit
+Hawk eats Squirrel
+Hawk eats Seed Eating Bird
+Hawk eats Insectivor Bird
+Snake eats Mouse
+Snake eats Seed Eating Bird
+Snake eats Insectivor Bird
+Snake eats Herbivor Insect
+Snake eats Predaceous Insect
+Snake eats Toad
+Rabbit eats Plants
+Squirrel eats Plants
+Mouse eats Plants
+Seed Eating Bird eats Plants
+Insectivor Bird eats Spider
+Spider eats Herbivor Insect
+Insectivor Bird eats Herbivor Insect
+Predaceous Insect eats Herbivor Insect
+Toad eats Predaceous Insect
+Spider eats Predaceous Insect
+Herbivor Insect eats Plants

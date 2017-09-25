@@ -1,0 +1,14 @@
+Goat eats Plants
+Mouse eats Plants
+Rabbit eats Plants
+Jackal eats Goat
+Jackal eats Rabbit
+Lion eats Goat
+Lion eats Jackal
+Wild Cat eats Rabbit
+Wild Cat eats Mouse
+Owl eats Mouse
+Snake eats Mouse
+Kite eats Snake
+Kite eats Mouse
+Lion eats Wild Cat
